@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Computer Science student at University of Fortaleza (Unifor)<br>🗄️ Database Systems & SQL<br>🧩 Data Modeling & Normalization<br>⚙️ Backend Development & API Integration</p>
+<p align="left">🎓 Computer Science student at University of Fortaleza (Unifor)<br>📊 Project Management<br>🧩 Data Modeling & Normalization<br>⚙️ Backend Development</p>
 
 ###
 

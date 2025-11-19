@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm José Guilherme👋</h1>
+<h1 align="center">🧑‍💻 José Guilherme👋</h1>
 
 ###
 
